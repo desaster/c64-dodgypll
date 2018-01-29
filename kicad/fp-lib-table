@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ics525-01-longpads)(type KiCad)(uri "$(KIPRJMOD)/ics525-01-longpads.pretty")(options "")(descr ""))
+)
